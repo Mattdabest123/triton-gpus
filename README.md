@@ -1,2 +1,2 @@
 # triton-gpus
-A study of how a handwritten GPU kernels behaves among different GPUS and architectures.
+Handwritten Triton Kernels for LLM primitives, benchmarked across 11 GPUs and 6 architectures
